@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed May  3 18:06:56 2023
 
-@author: 91966
-"""
 
 #Hotel_Recommendation_System_with_Machine_Learning
 
