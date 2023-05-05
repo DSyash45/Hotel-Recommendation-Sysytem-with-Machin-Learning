@@ -36,12 +36,7 @@ Also I will drop the unnecessary columns that we don't need fro further analysis
 
 ![image](https://user-images.githubusercontent.com/122660441/236451075-3946b91d-e4c1-4cbd-af81-703d88ab43d3.png)
                                      
-                                     Hotel_Address  ...    countries
-0   s Gravesandestraat 55 Oost 1092 AA Amsterdam ...  ...  Netherlands
-1   s Gravesandestraat 55 Oost 1092 AA Amsterdam ...  ...  Netherlands
-2   s Gravesandestraat 55 Oost 1092 AA Amsterdam ...  ...  Netherlands
-3   s Gravesandestraat 55 Oost 1092 AA Amsterdam ...  ...  Netherlands
-4   s Gravesandestraat 55 Oost 1092 AA Amsterdam ...  ...  Netherlands
+![image](https://user-images.githubusercontent.com/122660441/236453348-05057b76-0849-4056-87db-5b0f0ea6e3a1.png)
 
 
 
@@ -55,12 +50,7 @@ call fuction and provide "country" name listed above and describe the perpose of
 
 ##recommend_hotel('Italy', 'I am going for a business trip')
                   
-                  Hotel_Name  ...                                      Hotel_Address
-0               Hotel VIU Milan  ...  6 Via Aristotile Fioravanti Garibaldi Station ...
-1        Mokinba Hotels Baviera  ...  Via Panfilo Castaldi 7 Central Station 20124 M...
-2                Hotel Vittoria  ...   Via Pietro Calvi 32 P Vittoria 20129 Milan Italy
-3  Ibis Styles Milano Palmanova  ...                Via Palmanova 153 20132 Milan Italy
-4    Starhotels Business Palace  ...  Via Pietro Gaggia 3 Ripamonti Corvetto 20139 M...
+![image](https://user-images.githubusercontent.com/122660441/236453441-f96a6fea-b417-437f-8058-36ada1cac4f4.png)
 
 Here we get  top 5 hotels name and address.
 
