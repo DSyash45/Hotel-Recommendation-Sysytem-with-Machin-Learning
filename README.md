@@ -3,7 +3,7 @@ We all plan trips and the first thing to do when planning a trip is finding a ho
 
 A hotel recommendation system aims to predict which hotel a user is most likely to choose from among all hotels. So to build this type of System which will help the user to book the best. We can do this using cistomer reviews.
 
-For example, suuppose you want to go on a business trip, so the hotel recommendation system should show you the hotel that other cistomers have rated best for business travel. It is therefore also our approach to build a recommendation system based on customer reviews and ratings
+For example, suppose you want to go on a business trip, so the hotel recommendation system should show you the hotel that other cistomers have rated best for business travel. It is therefore also our approach to build a recommendation system based on customer reviews and ratings.
 
 ## Dataset
 Here I am using dataset avaliable on Kaggle.
@@ -13,6 +13,7 @@ DATASET (https://www.kaggle.com/datasets/jiashenliu/515k-hotel-reviews-data-in-e
 
 ## Import necessary Python libraries
 ![image](https://user-images.githubusercontent.com/122660441/236449791-85a375ad-ca80-4286-b4fc-a339d7c72576.png)
+
 ![image](https://user-images.githubusercontent.com/122660441/236449646-67d68da4-bded-451a-8cc6-ec59b075a936.png)
 
 
