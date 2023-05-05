@@ -29,8 +29,6 @@ from ast import literal_eval
 
 
 So for simpicity, I will change the name from "United Kingdom" to "UK".
-![image](https://user-images.githubusercontent.com/122660441/236448663-81af4326-edfe-46aa-92c7-633ff21b12b6.png)
-![image](https://user-images.githubusercontent.com/122660441/236448681-c356e4dc-2b3a-4442-85c2-c7685c3270cb.png)
 
 
 
