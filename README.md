@@ -8,7 +8,7 @@ For example, suuppose you want to go on a business trip, so the hotel recommenda
 ## Dataset
 Here I am using dataset avaliable on Kaggle.
 DATASET (https://www.kaggle.com/datasets/jiashenliu/515k-hotel-reviews-data-in-europe/download?datasetVersionNumber=1)
-### Data Contain 515738 rows and 18 columns.
+### Dataset Contains 515738 rows and 18 columns.
 
 
 ## Import necessary Python libraries
