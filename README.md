@@ -41,6 +41,7 @@ Also I will drop the unnecessary columns that we don't need fro further analysis
 
 
 ## Let's define a function to recommend the names of hotels according to the location and description provided by the user.
+### I am using Natural Language Processing 
 Here aim is not just to recommend the name but also rank it according to the user ratings.
 
 ![image](https://user-images.githubusercontent.com/122660441/236451776-2bc29d39-3fde-4f77-8031-19732d3d979d.png)
@@ -53,47 +54,4 @@ call fuction and provide "country" name listed above and describe the perpose of
 ![image](https://user-images.githubusercontent.com/122660441/236453441-f96a6fea-b417-437f-8058-36ada1cac4f4.png)
 
 Here we get  top 5 hotels name and address.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
