@@ -8,6 +8,8 @@ For example, suuppose you want to go on a business trip, so the hotel recommenda
 ## Dataset
 Here I am using dataset avaliable on Kaggle.
 DATASET (https://www.kaggle.com/datasets/jiashenliu/515k-hotel-reviews-data-in-europe/download?datasetVersionNumber=1)
+### Data Contain 515738 rows and 18 columns.
+
 
 ## Import necessary Python libraries
 ![image](https://user-images.githubusercontent.com/122660441/236449791-85a375ad-ca80-4286-b4fc-a339d7c72576.png)
